@@ -8,7 +8,7 @@ Starter data and materials for the Data Analytics Capstone Roller Coaster Case S
 #### `steel_coasters.csv`
 Contains Golden Ticket Award winners for steel coasters from 2010-2022, in a CSV file.
 ##### Columns:
-    - Rank: The rank of the coaster for 
+    - Rank: The rank of award the coaster received
     - Year_of_Rank: The year the award was given
     - Award_Category: The category of awards (Steel or Wooden)
     - Name: Roller coaster name
@@ -20,7 +20,7 @@ Contains Golden Ticket Award winners for steel coasters from 2010-2022, in a CSV
 #### `wood_coasters.csv`
 Contains Golden Ticket Award winners for wooden coasters from 2010-2022, in a CSV file.
 ##### Columns:
-    - Rank: The rank of the coaster for 
+    - Rank: The rank of award the coaster received
     - Year_of_Rank: The year the award was given
     - Award_Category: The category of awards (Steel or Wooden)
     - Name: Roller coaster name
